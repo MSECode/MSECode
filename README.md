@@ -8,7 +8,7 @@ You can find more about me in <a href="https://linkedin.com/in/jacopo-losi-12369
 
 
 
-### Stats
+### 🎯 Code skills
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MSECode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -17,7 +17,7 @@ You can find more about me in <a href="https://linkedin.com/in/jacopo-losi-12369
 
 ### 
 
-<img align="right" height="200" src="https://i.imgflip.com/addfif.jpg"  />
+<img align="right" height="300" src="https://i.imgflip.com/addfif.jpg"  />
 
 ### 🛠️ Languages and Tools
 
